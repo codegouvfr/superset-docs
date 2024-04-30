@@ -1,0 +1,21 @@
+#+title: Apache Superset - ressources
+#+subtitle: S'approprier le logiciel libre Apache Superset
+#+author: Équipe de la mission logiciels libres
+#+options: toc:t
+#+language: fr
+
+* Ce qui existe
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: existant.md
+  :END:
+
+* Ce qui manque
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: manquant.md
+  :END:
+
+* Calendrier
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: calendrier.md
+  :END:
+
