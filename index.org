@@ -11,38 +11,42 @@
 
 ** Documentation en français
 
-- Documentation MTE :fr: : https://snum.gitlab-pages.din.developpement-durable.gouv.fr/ds/gd3ia/offre-dataviz-documentation/
+- Documentation MTE : https://snum.gitlab-pages.din.developpement-durable.gouv.fr/ds/gd3ia/offre-dataviz-documentation/
 - DATARAMA 2023 - Open Data et datavisualisation, l'évolution de la transparence gouvernementale : https://www.youtube.com/watch?v=A1SJ5eq3ew0
 
 ** Documentation en anglais
+
   - Documentation officielle : https://superset.apache.org/docs/intro
   - Documentation Preset : https://docs.preset.io/docs/getting-started
   - Posts de blog Preset : https://preset.io/blog/
   - Superset 101 : https://www.youtube.com/watch?v=mAIH3hUoxEE
   - Developing a Apache Superset application for 60k users : https://www.youtube.com/watch?v=3BQBnE8jYsI
   - Advanced Apache Superset for Data Engineers (par Maxime Beauchemin) : https://www.youtube.com/watch?v=Mhai7sVU244
-  - 2023 | Visualizing Geospatial Data with Apache Superset - Jan Suleiman https://www.youtube.com/watch?v=fwWJvbFTwGc&ab_channel=FOSS4G
+  - Visualizing Geospatial Data with Apache Superset - Jan Suleiman - 2023 : https://www.youtube.com/watch?v=fwWJvbFTwGc&ab_channel=FOSS4G
 
 ** Outils
-  - Superset DSFR :fr: : https://github.com/numerique-gouv/chartsgouv
+
+  - Superset DSFR : https://github.com/numerique-gouv/chartsgouv
   - Superset OIDC : https://github.com/dataregion/superset-oidc
   - Connecteur Grist : https://github.com/qleroy/shillelagh-gristapi
   - Connecteur DuckDB : https://github.com/Mause/duckdb_engine
 
 ** Instances de démo
-  - Instance de démo SSPCLoud : https://chartsgouv.lab.sspcloud.fr/dashboard/list
-  - Instance bac à sable SSPCloud : https://superset.lab.sspcloud.fr
+
+- Instance de démo SSPCLoud : https://chartsgouv.lab.sspcloud.fr/dashboard/list
+- Instance bac à sable SSPCloud : https://superset.lab.sspcloud.fr
 
 ** Liens utiles
-    - https://code.gouv.fr/sill/detail?name=Apache%20Superset
-    - https://github.com/numerique-gouv/chartsgouv
-** Liste des intances Superset accessibles dans l'administration
 
-** Salons Tchap
+- https://code.gouv.fr/sill/detail?name=Apache%20Superset
+- https://github.com/numerique-gouv/chartsgouv
+
+** Salons Tchap et autres espaces de discussion
 
 - [[https://www.tchap.gouv.fr/#/room/#Programme10LoutildevisualisationdesdonnesdeltatPuvO4oGZW9:agent.interieur.tchap.gouv.fr][Apache Superset - utilisateurs]]
-- Apache Superset - experts et contributeurs
-- ([[https://code.gouv.fr/fr/contact/espaces-communication-bluehats/][Où échanger avec les BlueHats?]]
+- [[https://code.gouv.fr/fr/contact/espaces-communication-bluehats/][Où échanger avec les BlueHats?]]
+- TODO : Apache Superset - experts et contributeurs
+- TODO : Slack de la communauté Superset
 
 * Ce qui manque
   :PROPERTIES:
@@ -52,6 +56,7 @@
 - Un guide de déploiement pas à pas en français
 - Un guide orienté utilisateurs en français
 - Un comparatif Superset / Metabase / [autres]
+- La liste des intances Superset accessibles dans l'administration
 
 * Calendrier
   :PROPERTIES:
