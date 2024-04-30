@@ -15,7 +15,7 @@ tasks:
       texi2pdf index.texi
       mv index.pdf superset-docs.pdf
   - upload: |
-      rsync -e "ssh -o StrictHostKeyChecking=no" -av documentation/* web@code.gouv.fr:/home/web/websites/superset-docs/
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av superset-docs/* web@code.gouv.fr:/home/web/websites/superset-docs/
 triggers:
   - action: email
     condition: failure
