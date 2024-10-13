@@ -23,7 +23,7 @@
 - Developing a Apache Superset application for 60k users : https://www.youtube.com/watch?v=3BQBnE8jYsI
 - Advanced Apache Superset for Data Engineers (par Maxime Beauchemin) : https://www.youtube.com/watch?v=Mhai7sVU244
 - Visualizing Geospatial Data with Apache Superset - Jan Suleiman - 2023 : https://www.youtube.com/watch?v=fwWJvbFTwGc&ab_channel=FOSS4G
-- [[Apache Superset — Use URL to filter dashboards : https://www.blef.fr/superset-filters-in-url/]]
+- [[https://www.blef.fr/superset-filters-in-url/][Apache Superset — Use URL to filter dashboards]]
 
 ** Outils
 
