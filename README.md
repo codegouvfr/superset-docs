@@ -8,6 +8,6 @@ L'interface HTML utilise [docsify-dsfr-template](https://github.com/codegouvfr/d
 
 # Licence
 
-2024 Mission logiciels libres, DINUM.
+2024-2025 Mission logiciels libres, DINUM.
 
 Le contenu de ce dépôt est publié sous licence [Etalab-2.0](LICENSES/Etalab-2.0.md).
